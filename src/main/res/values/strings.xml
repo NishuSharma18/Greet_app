@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Greet_App</string>
+    <string name="massage">Enter the Name :</string>
+    <string name="Hint">Name</string>
+    <string name="create_the_card">Create the Card</string>
+    <string name="created_by_nishu_sharma">~ Created by Nishu Sharma</string>
+    <string name="yes">yes</string>
+    <string name="happy_holi">Happy Holi</string>
+</resources>
